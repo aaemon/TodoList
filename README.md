@@ -1,5 +1,5 @@
 # aaemon-todolist
-Simple todolist using js
+Simple todolist using javascript, my first js web app.
 
 # live demo
 https://aaemon-todolist.web.app/
